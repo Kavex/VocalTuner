@@ -55,11 +55,11 @@ This Python-based tool provides real-time analysis of vocal pitch and resonance 
 - [Matplotlib](https://matplotlib.org/)
 - Tkinter (usually bundled with Python)
 
-  ![image](https://github.com/user-attachments/assets/3dee36c4-a860-4177-a567-732fd1cbbeb4)
-
 ## Installation
 
 To run from source code, open your terminal or command prompt in the project directory and install the required packages:
 
 ```bash
 pip install numpy pyaudio matplotlib
+
+![image](https://github.com/user-attachments/assets/32ed39c1-68c8-4527-bd0e-b8cd5a3709eb)
