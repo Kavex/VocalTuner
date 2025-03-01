@@ -61,4 +61,4 @@ To run from source code, open your terminal or command prompt in the project dir
 
 > pip install numpy pyaudio matplotlib
 
-![image](https://github.com/user-attachments/assets/32ed39c1-68c8-4527-bd0e-b8cd5a3709eb)
+![image](https://github.com/user-attachments/assets/7c81e333-421c-427e-a60f-d3c9fd24552e)
