@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/7c81e333-421c-427e-a60f-d3c9fd24552e" alt="drawing" width="600"/>
+
 # Transgender Voice Training Tool
 
 Transgender Voice Training Tool being built in Python.
@@ -59,6 +61,6 @@ This Python-based tool provides real-time analysis of vocal pitch and resonance 
 
 To run from source code, open your terminal or command prompt in the project directory and install the required packages:
 
-> pip install numpy pyaudio matplotlib
+```python
+pip install numpy pyaudio matplotlib
 
-![image](https://github.com/user-attachments/assets/7c81e333-421c-427e-a60f-d3c9fd24552e)
